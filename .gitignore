@@ -22,8 +22,8 @@ Assets/Plugins/*
 # ============================================================== #
 # Project specific assets and my own assets (Not ignored assets)
 # ============================================================== #
-!Assets/TextureSharing/
-!Assets/TextureSharing.meta
+!Assets/TextureSharing-MUN2/
+!Assets/TextureSharing-MUN2.meta
 !Assets/SimpleDrawing/
 !Assets/SimpleDrawing.meta
 
