@@ -1,5 +1,9 @@
 # Texture Sharing using Monobit Unity Networking 2
 
+## References
+- [Monobit Unity Networking 2 (MUN2) のRPCを使ってテクスチャデータを送信する - Nabla Tech Lab](https://nabla-tech-lab.hatenablog.com/entry/2019/05/15/183000)
+- [テクスチャデータを圧縮してPhotonのRaiseEventとモノビットエンジンのRPCで送信する - Nabla Tech Lab](https://nabla-tech-lab.hatenablog.com/entry/texture-sharing-lossless-compression)
+
 ## Tested Environment
 - [モノビットエンジンクラウド](https://web.cloud.monobitengine.com/usage)
 - Unity 2018.4.17f1
